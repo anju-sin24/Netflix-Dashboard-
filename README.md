@@ -12,15 +12,6 @@ Netflix has a large collection of movies and TV shows from different countries, 
 
 This project transforms raw Netflix data into an interactive Tableau dashboard that helps users explore the content library and identify meaningful patterns.
 
-The dashboard focuses on:
-
-* Total number of movies and TV shows
-* Content distribution by type
-* Trends across release years
-* Country-wise distribution of Netflix titles
-* Content ratings and audience classifications
-* Directors associated with movies
-
 ## Objective of the Dashboard
 
 The main objective is to build an interactive business intelligence dashboard that provides a clear overview of Netflix’s content library and helps users analyze movies and TV shows efficiently.

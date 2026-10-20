@@ -1,4 +1,4 @@
-## Netflix Movies and TV Shows Analysis Dashboard
+# Netflix Movies and TV Shows Analysis Dashboard
 
 ## Project Overview
 
@@ -6,7 +6,7 @@ The Netflix Dashboard is an interactive Tableau dashboard created to analyze Net
 
 The dashboard helps users understand Netflix’s content library through interactive visualizations, KPI cards, bar charts, a geographical map, and filters. It highlights content trends and provides a clear overview of Netflix’s movies and TV shows.
 
-2. Business Problem
+## Business Problem
 
 Netflix has a large collection of movies and TV shows from different countries, release years, and content categories. Analyzing this data manually can make it difficult to understand content distribution, identify popular content categories, and explore trends over time.
 
@@ -21,7 +21,7 @@ The dashboard focuses on:
 * Content ratings and audience classifications
 * Directors associated with movies
 
-3. Objective of the Dashboard
+## Objective of the Dashboard
 
 The main objective is to build an interactive business intelligence dashboard that provides a clear overview of Netflix’s content library and helps users analyze movies and TV shows efficiently.
 
@@ -34,7 +34,7 @@ The dashboard aims to:
 * Identify directors with the highest number of movies in the dataset.
 * Enable interactive exploration through content-type filters.
 
-4. Tools & Technologies
+## Tools & Technologies
 
 * Tableau Desktop – Dashboard development and data visualization.
 * Netflix Titles Dataset (CSV) – Source data for movies and TV shows analysis.
@@ -42,7 +42,7 @@ The dashboard aims to:
 * Data Visualization – KPI cards, bar charts, highlight tables, pie charts, and geographical maps.
 * Interactive Filters – Filtering content by movie and TV show type.
 
-5. Data Source
+## Data Source
 
 Source: netflix_titles.csv
 
@@ -63,9 +63,9 @@ The dataset includes information about:
 * Listed In (Genre/Categories)
 * Description
 
-The CSV dataset was connected to Tableau Desktop and used to create visualizations for exploring Netflix’s content library.
+The dataset was connected to Tableau Desktop and used to create visualizations for exploring Netflix’s content library.
 
-6. Features / Highlights
+## Features / Highlights
 
 A. Key Performance Indicators (KPIs)
 
@@ -143,7 +143,7 @@ The dashboard includes a content-type filter with options for:
 
 This filter allows users to explore the dashboard by content type and compare the available metrics and visualizations.
 
-7. Key Insights
+## Key Insights
 
 The dashboard provides the following insights:
 
@@ -155,7 +155,7 @@ The dashboard provides the following insights:
 * Director Analysis: The director chart highlights individuals associated with multiple movies in the dataset.
 * Interactive Analysis: The content-type filter allows users to explore movies and TV shows separately.
 
-8. Dashboard Components
+## Dashboard Components
 
 The dashboard combines multiple visualizations to present the analysis in a single view:
 
@@ -168,7 +168,7 @@ The dashboard combines multiple visualizations to present the analysis in a sing
 * Bar chart for director analysis
 * Interactive content-type filter
 
-9. Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates the following data analytics skills:
 
@@ -181,20 +181,9 @@ This project demonstrates the following data analytics skills:
 * Interactive dashboard design
 * Business insights and analytical storytelling
 
-10. Conclusion
+## Conclusion
 
 The Netflix Movies and TV Shows Analysis Dashboard provides an interactive overview of Netflix’s content library. By combining KPI cards, charts, a geographical map, and filters, the dashboard makes it easier to explore content distribution by type, release year, country, rating, and director.
 
 This project demonstrates the use of Tableau to convert raw data into meaningful visual insights and develop an interactive dashboard for data exploration and reporting.
 
-11. Project Files
-
-* netflix_titles.csv – Dataset used for the analysis.
-* Tableau Workbook (.twb or .twbx) – Dashboard and visualization file.
-* README.md – Project documentation.
-
-12. Author
-
-Anju Singh
-
-Aspiring Data Analyst | Tableau | SQL | Excel | Python | Data Visualization

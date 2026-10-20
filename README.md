@@ -155,32 +155,6 @@ The dashboard provides the following insights:
 * Director Analysis: The director chart highlights individuals associated with multiple movies in the dataset.
 * Interactive Analysis: The content-type filter allows users to explore movies and TV shows separately.
 
-## Dashboard Components
-
-The dashboard combines multiple visualizations to present the analysis in a single view:
-
-* KPI cards for key metrics
-* Highlight table for release-year analysis
-* Geographical map for country-wise distribution
-* Pie chart for movie versus TV show comparison
-* Bar chart for country-wise title counts
-* Bar chart for content ratings
-* Bar chart for director analysis
-* Interactive content-type filter
-
-## Skills Demonstrated
-
-This project demonstrates the following data analytics skills:
-
-* Data visualization using Tableau
-* Connecting and exploring CSV datasets
-* Data aggregation and KPI creation
-* Calculated fields in Tableau
-* Geographical data visualization
-* Comparative and trend analysis
-* Interactive dashboard design
-* Business insights and analytical storytelling
-
 ## Conclusion
 
 The Netflix Movies and TV Shows Analysis Dashboard provides an interactive overview of Netflix’s content library. By combining KPI cards, charts, a geographical map, and filters, the dashboard makes it easier to explore content distribution by type, release year, country, rating, and director.
